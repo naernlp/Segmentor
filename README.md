@@ -16,7 +16,7 @@
     
 * 下載分詞及詞性標記模型：
 	* 下載處：
-		* [naer-segmentor-models-20160318.tar.gz](http://120.127.233.228/download/Segmentor/naer-segmentor-models-20160318.tar.gz)
+		* [naer-segmentor-models-20160318.tar.gz](https://coct.naer.edu.tw/download/Segmentor/naer-segmentor-models-20160318.tar.gz)
 	* 模型下載後於 Segmentor/Segmentor 目錄下解壓縮
 
 		```
